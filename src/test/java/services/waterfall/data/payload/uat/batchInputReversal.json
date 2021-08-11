@@ -1,0 +1,13 @@
+{
+  "refundReversal": [
+    {
+      "merchantId": "#(merchantId)",
+      "institutionNumber": "00000003",
+      "terminalId": "#(terminalId)",
+      "amount": "#(amount)",
+      "retRefNumber": "#(retrievalReference)",
+      "origDate": "#(tranDate)",
+      "authCode": "#(authCode)"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name":"Nome teste",
+  "code":"SS2",
+  "business":"GTW",
+  "products": [{"code":"LNK"}],
+  "chargetypes" : [{"code":"STP"}, {"code":"MDF"}, {"code":"MDR"}, {"code":"TRF"}, {"code":"INP"}, {"code":"MTP"}]
+}

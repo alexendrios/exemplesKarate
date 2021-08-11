@@ -1,0 +1,10 @@
+{
+  "uninstall": [
+    {
+      "institutionNumber": "00000003",
+      "merchantID": "#(merchantId)",
+      "contactName": "Automation",
+      "terminalID": "#(terminalId)"
+    }
+  ]
+}

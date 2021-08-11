@@ -1,0 +1,13 @@
+{
+  "miscBatchInput": [
+    {
+      "institutionNumber": "00000003",
+      "accountNumber": "#(accountNumber)",
+      "transactionType": "#(tranType)",
+      "transactionCategory": "001",
+      "valueDate": "#(valueDate)",
+      "tranAmountGR": "#(tranAmount)",
+      "reversalFlag": "000"
+    }
+  ]
+}

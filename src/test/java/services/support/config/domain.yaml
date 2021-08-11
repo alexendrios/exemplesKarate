@@ -1,0 +1,14 @@
+
+uat:
+  env: 'uat'
+  name_url: ''
+
+uat_bankworks:
+  env: 'uat_bankworks'
+  UAT_WSM: 'https://racvwb1001.1dc.com/wsm'
+  UAT_SBA: 'https://racvwb1001.1dc.com/tms-cos/rest'
+
+uat_omnicommerce:
+    env: 'uat_omnicommerce'
+    UAT_OMN: 'https://racvwb1001.1dc.com/omni'
+

@@ -1,0 +1,7 @@
+# Maven Reports
+/target/**
+
+# Intellij
+.idea/
+karate_api.iml
+

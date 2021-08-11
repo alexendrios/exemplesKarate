@@ -1,0 +1,22 @@
+{
+  "replaceChange": [
+    {
+      "institutionNumber": "00000003",
+      "merchantID": "#(merchantId)",
+      "contactName": "Automation",
+      "terminalID": "#(terminalId)",
+      "terminalType": "#(type)",
+      "terminalEffectiveDate": "#(effectiveDate)",
+      "terminalExpiryDate": "99991231",
+      "terminalFeeApplied": "20,00",
+      "specialCustomerFlag":"",
+      "specialCustomerNotes":"",
+      "specialCustomerDescription":"",
+      "specialCustomerOtherInfo":"",
+      "genericText119":"",
+      "genericText120":"",
+      "genericText121":"",
+      "genericText122":""
+    }
+  ]
+}

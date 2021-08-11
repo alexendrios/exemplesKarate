@@ -1,0 +1,10 @@
+{
+  "merchant":{
+    "document": "20416696000149",
+    "country":"BR"
+  },
+  "serviceContract":{
+    "code":"777",
+    "institution": {"code":"00000007"}
+  }
+}

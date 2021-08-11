@@ -1,0 +1,12 @@
+{
+  "merchants": [
+    {
+      "auditTrail": "100366-prepayment-no",
+      "effectiveDate": "#(effectiveDate)",
+      "institutionNumber": "00000003",
+      "merchantID": "19999901",
+      "prepaymentFlag": "#(flag)",
+      "reservePercent": "001.00"
+    }
+  ]
+}

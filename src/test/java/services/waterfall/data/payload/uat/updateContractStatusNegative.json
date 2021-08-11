@@ -1,0 +1,10 @@
+{
+  "merchants":
+  [{
+    "auditTrail": "#(auditTrail)",
+    "institutionNumber": "#(institution)",
+    "merchantID": "#(merchantId)",
+    "merchantStatus": "#(status)",
+    "reason": "#(reason)"
+  }]
+}

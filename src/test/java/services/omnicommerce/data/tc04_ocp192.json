@@ -1,0 +1,10 @@
+{
+  "name":"Link de Pagamento PP2",
+  "code":"PP2",
+  "type": "CNP",
+  "creditRisk": "true",
+  "reserveValue": "false",
+  "business":"ACQ",
+  "chargetypes" : [{"code":"STP"}, {"code":"MDF"}, {"code":"MDR"}, {"code":"TRF"}, {"code":"INP"}, {"code":"MTP"}]
+}
+

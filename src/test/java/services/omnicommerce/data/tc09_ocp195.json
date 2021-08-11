@@ -1,0 +1,20 @@
+{
+  "product":"876",
+  "requireSubProduct":"true",
+  "requireWallet": "true",
+  "availableCnp": "true",
+  "restrictCnpj": "false",
+  "restrictMcc": "false",
+  "subproducts":[
+    1, 2, 3, 4, 5
+  ],
+  "wallets" : [
+    1, 2
+  ],
+  "institutions": [
+    1
+  ],
+  "mccs": [
+    "1"
+  ]
+}

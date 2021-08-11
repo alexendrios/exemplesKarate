@@ -1,0 +1,10 @@
+{
+  "merchants":
+  [{
+    "auditTrail": "18239-143000-RiskCenter",
+    "institutionNumber": "00000003",
+    "merchantID": "11130031",
+    "merchantStatus": "#(status)",
+    "reason": "#(reason)"
+  }]
+}

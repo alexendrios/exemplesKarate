@@ -1,0 +1,12 @@
+{
+  "merchants": [
+    {
+      "auditTrail": "#(auditTrail)",
+      "effectiveDate": "#(effectiveDate)",
+      "institutionNumber": "#(institutuion)",
+      "merchantID": "#(merchantId)",
+      "prepaymentFlag": "#(flag)",
+      "reservePercent": "#(reservePercent)"
+    }
+  ]
+}

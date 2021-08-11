@@ -1,0 +1,24 @@
+{
+  "processMessage": [
+    {
+      "institutionNumber": "00000003",
+      "merchantID": "98703138",
+      "tmsRequestNumber": "00080454",
+      "tmsDetails": {
+        "tmsInformationList": [
+          {
+            "tmsReferenceID": "000000757606"
+          }
+        ]
+      },
+      "response": {
+        "responseInformationList": [
+          {
+            "responseCode": "00",
+            "responseCodeDesc": "TMS Request Successful"
+          }
+        ]
+      }
+    }
+  ]
+}

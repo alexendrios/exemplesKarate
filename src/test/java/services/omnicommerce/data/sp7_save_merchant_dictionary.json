@@ -1,0 +1,14 @@
+{
+  "merchant":{
+    "document": "82320265000484",
+    "country": "BR"
+  },
+  "serviceContract":{
+    "code":"333",
+    "institution": {"code":"00000003"}
+  },
+  "dictionaryIds":[
+    {"idValue":555,"idType":"SITEF_ID"},
+    {"idValue":666,"idType":"MID"}
+  ]
+}

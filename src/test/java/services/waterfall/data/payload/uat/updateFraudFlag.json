@@ -1,0 +1,9 @@
+{
+  "merchants":
+  [{
+    "auditTrail":"100366",
+    "fraudFlag":"#(flag)",
+    "institutionNumber":"00000003",
+    "merchantID":"19999901"
+  }]
+}
