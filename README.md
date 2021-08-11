@@ -1,5 +1,4 @@
-# Framework Karate Inmetrics
-
+# Framework Karate 
 ## Dependencies
 
 * Maven
